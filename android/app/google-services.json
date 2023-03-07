@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233565615274",
+    "project_id": "thegatehr-dce0d",
+    "storage_bucket": "thegatehr-dce0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233565615274:android:b4d1a9d97d3308f26a8cd3",
+        "android_client_info": {
+          "package_name": "com.shoman.TheGateInvestmentsHR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233565615274-t2tqlke1vqei2lt7lhl0sodue1lr4b9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbJ6wKzUXLs0xIiFb3oYqYVwjFpwAIR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233565615274-t2tqlke1vqei2lt7lhl0sodue1lr4b9j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233565615274-gle4c202cvjq774ev8g5id1rj9lku6sd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shoman.TheGateInvestmentHR",
+                "app_store_id": "1621548228"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
